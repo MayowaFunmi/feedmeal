@@ -9,7 +9,7 @@ const MainContent: React.FC = () => {
   return (
     <div className="mt-20 px-4 py-2 mb-15">
       <div className='text-center'>
-        <h3 className='text-2xl lg:text-6xl font-semibold'>Ingredients For Feed Meals</h3>
+        <h3 className='text-2xl lg:text-6xl font-semibold'>Ingredients For Feed Mill</h3>
       </div>
       <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 gap-4">
         <div className="flex flex-col items-center bg-gray-100 mb-8 mt-6 h-96 space-x-2 space-y-2 rounded-md border-spacing-1 border-gray-200">

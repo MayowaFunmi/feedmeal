@@ -7,13 +7,10 @@ const About: React.FC = () => {
       <h1 className="text-3xl font-bold mb-8 text-center">About Us</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 ml-16">
         <div className="prose">
-          <p className='font-bold text-2xl'>
-            Welcome to Tanirex Agro!!!
+          <p className='text-2xl'>
+            Welcome to Tanirex Agro for animal feed ingredients, feed mill, pelletization, feed additives, sales of catfish, construction of fish ponds and farm consulting services.
           </p>
-          <p>
-            We specialize in the production and sales of animal feed ingredients, feed meal, pelletization, feed additives.
-          </p>
-          <p>We also sell catfish. Contact us for the construction of fish ponds and all other farm consulting services.</p>
+         
           <div className='my-6 flex justify-center'>
             <img className='lg:w-2/5 w-3/5 h-1/2 rounded-md' src={catfish} alt="catfish" loading='lazy' />
           </div>
