@@ -8,7 +8,7 @@ const services = [
 ];
 
 const others = [
-  "Selling of catfish",
+  "Sales of catfish",
   "Construction of fish ponds",
 ];
 
